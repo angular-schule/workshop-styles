@@ -11,3 +11,10 @@ Includes
 - Button styles
     - shortcut aliases for bootstrap buttons with right margin: `.btn-red`, `.btn-green`, `.btn-yellow`, `.btn-blue`, `.btn-grey`,
     - disabled button style with cursor
+
+
+# Install
+
+```
+npm install @angular-schule/workshop-styles
+```
