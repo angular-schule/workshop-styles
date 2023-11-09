@@ -1,8 +1,8 @@
 {
   "name": "@angular-schule/workshop-styles",
-  "version": "1.6.2",
+  "version": "1.7.0",
   "repository": "https://github.com/angular-schule/workshop-styles.git",
-  "description": "",
+  "description": "Common styles for our workshop projects at Angular.Schule",
   "scripts": {},
   "author": "Angular.Schule",
   "contributors": [
