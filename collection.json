@@ -1,0 +1,10 @@
+{
+    "$schema": "@angular-devkit/schematics/collection-schema.json",
+    "schematics": {
+      "ng-add": {
+        "description": "Add workshop-styles package and import global styles",
+        "factory": "./ng-add",
+        "schema": "./ng-add-schema.json"
+      }
+    }
+  }

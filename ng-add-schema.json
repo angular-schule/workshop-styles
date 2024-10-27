@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "workshop-styles-ng-add-schematic",
+  "title": "workshop-styles ng-add schematic",
+  "type": "object",
+  "properties": {
+    "project": {
+      "type": "string",
+      "description": "The project for which the styles be added"
+    }
+  },
+  "required": [],
+  "additionalProperties": false
+}

@@ -11,8 +11,16 @@
       "email": "ferdinand@malcher.media"
     }
   ],
+  "schematics": "./collection.json",
+  "ng-add": {
+    "save": true
+  },
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.2.1"
+  },
+  "devDependencies": {
+    "@angular-devkit/schematics": "^15.2.4",
+    "@schematics/angular": "^15.2.4"
   }
 }
