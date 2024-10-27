@@ -22,5 +22,5 @@ npm install @angular-schule/workshop-styles
 in `styles.scss`
 
 ```
-@import '@angular-schule/workshop-styles/index';
+@use '@angular-schule/workshop-styles/index';
 ```
