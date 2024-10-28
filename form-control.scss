@@ -1,3 +1,5 @@
+@use 'bootstrap/scss/bootstrap';
+
 .form-control.ng-touched {
   &.ng-valid {
     @extend .is-valid;
