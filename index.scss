@@ -3,3 +3,7 @@
 );
 @use 'form-control';
 @use 'button';
+
+.card img {
+  max-width: 150px;
+}
