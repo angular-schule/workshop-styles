@@ -28,10 +28,4 @@ button[disabled] {
         @extend .me-2;
         @extend .btn-warning;
     }
-
-    &blue {
-        @extend .btn;
-        @extend .me-2;
-        @extend .btn-primary;
-    }
 }

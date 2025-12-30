@@ -13,7 +13,7 @@ Common styles for our workshop projects at Angular.Schule. This package is meant
     - Angular form styles for `.ng-valid` et al
     - feedback classes `.feedback-error` and `.feedback-success` (and their aliases `.feedback-red` and `.feedback-green`)
 - Button styles
-    - shortcut aliases for Bootstrap buttons with right margin: `.btn-red`, `.btn-green`, `.btn-yellow`, `.btn-blue`, `.btn-grey`,
+    - shortcut aliases for Bootstrap buttons with right margin: `.btn-red`, `.btn-green`, `.btn-yellow`, `.btn-grey`,
     - disabled button style with cursor
 - primary color Angular purple
 
