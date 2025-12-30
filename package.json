@@ -11,8 +11,11 @@
       "email": "ferdinand@malcher.media"
     }
   ],
+  "main": "index.scss",
+  "sass": "index.scss",
+  "styles": "index.scss",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.3.7"
+    "bootstrap": "^5.3.8"
   }
 }
